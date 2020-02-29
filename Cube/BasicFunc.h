@@ -1,0 +1,1 @@
+VOID	Int2Str(int iInt, int	iLen, TCHAR *szStr);
